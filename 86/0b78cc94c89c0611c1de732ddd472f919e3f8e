@@ -1,0 +1,19 @@
+ios/Tests/SpeechRecognitionPluginTests/SpeechRecognitionPluginTests.swift
+  s_60aae28b9f3ac6::t_105bf693057be0 340-393
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "860b78cc94c89c0611c1de732ddd472f919e3f8e",
+  "prompts": {},
+  "sessions": {
+    "s_60aae28b9f3ac6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2ca8d4d2-09b8-46bd-9e7b-cf0e1e63017e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Spencer Pincott <spencer@corfix.com>"
+    }
+  }
+}
